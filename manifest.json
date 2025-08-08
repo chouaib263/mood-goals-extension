@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Mood Goals",
+  "version": "1.0",
+  "description": "توليد أهداف يومية حسب مزاجك.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icons/icon48.png"
+    }
+  },
+  "permissions": []
+}
